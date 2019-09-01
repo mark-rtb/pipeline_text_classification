@@ -18,7 +18,7 @@ setup(
     install_requires=[
         'numpy==1.17.0',
         'gensim==3.7.1',
-        'nltk==3.4',
+        'nltk==3.4.5',
         'pandas==0.24.0',
         'pymorphy2==0.8',
         'scikit-learn==0.20.2',
