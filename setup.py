@@ -22,7 +22,7 @@ setup(
         'pandas==0.24.0',
         'pymorphy2==0.8',
         'scikit-learn==0.20.2',
-        'tensorflow==1.14.0',
+        'tensorflow==2.5.0',
         'Keras==2.2.4',
         'h5py==2.8.0',
         'matplotlib==3.0.2',
