@@ -16,7 +16,7 @@ setup(
 #    Platform='python3.6.8',
 #    Author='mark-rtb@yandex.ru',
     install_requires=[
-        'numpy==1.17.0',
+        'numpy==1.22.0',
         'gensim==3.7.1',
         'nltk==3.4.5',
         'pandas==0.24.0',
